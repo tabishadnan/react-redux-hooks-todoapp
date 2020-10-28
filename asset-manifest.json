@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-redux-hooks-todoapp/static/css/main.f59d8520.chunk.css",
+    "main.js": "/react-redux-hooks-todoapp/static/js/main.24f06cb5.chunk.js",
+    "main.js.map": "/react-redux-hooks-todoapp/static/js/main.24f06cb5.chunk.js.map",
+    "runtime-main.js": "/react-redux-hooks-todoapp/static/js/runtime-main.a9f4dcb7.js",
+    "runtime-main.js.map": "/react-redux-hooks-todoapp/static/js/runtime-main.a9f4dcb7.js.map",
+    "static/js/2.0a89fe2f.chunk.js": "/react-redux-hooks-todoapp/static/js/2.0a89fe2f.chunk.js",
+    "static/js/2.0a89fe2f.chunk.js.map": "/react-redux-hooks-todoapp/static/js/2.0a89fe2f.chunk.js.map",
+    "index.html": "/react-redux-hooks-todoapp/index.html",
+    "static/css/main.f59d8520.chunk.css.map": "/react-redux-hooks-todoapp/static/css/main.f59d8520.chunk.css.map",
+    "static/js/2.0a89fe2f.chunk.js.LICENSE.txt": "/react-redux-hooks-todoapp/static/js/2.0a89fe2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f4dcb7.js",
+    "static/js/2.0a89fe2f.chunk.js",
+    "static/css/main.f59d8520.chunk.css",
+    "static/js/main.24f06cb5.chunk.js"
+  ]
+}
